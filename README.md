@@ -370,33 +370,33 @@ alt="GitHub Activity Graph"/>
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="250">
 
-<img src="https://img.shields.io/badge/📊%20POWER%20BI-Advanced%20DAX%20%7C%20Data%20Storytelling-6C63FF?style=for-the-badge&labelColor=4B44B8" />
-
-</td>
-
-<td>&nbsp;&nbsp;</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/🐍%20PYTHON-Statistical%20EDA%20%7C%20Advanced%20Pandas-3776AB?style=for-the-badge&labelColor=285780" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B44B8,100:8B5CF6&height=140&section=header&text=📊%20POWER%20BI&fontSize=24&fontColor=FFFFFF&animation=fadeIn&desc=Advanced%20DAX%20%26%20Data%20Storytelling&descSize=12&descAlignY=72" width="230"/>
 
 </td>
 
-<td>&nbsp;&nbsp;</td>
+<td width="18"></td>
 
-<td align="center">
+<td align="center" width="250">
 
-<img src="https://img.shields.io/badge/🗄️%20SQL-Advanced%20Queries%20%7C%20Analytical%20SQL-4479A1?style=for-the-badge&labelColor=315B7A" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:285780,100:3776AB&height=140&section=header&text=🐍%20PYTHON&fontSize=24&fontColor=FFFFFF&animation=fadeIn&desc=Statistical%20EDA%20%26%20Advanced%20Pandas&descSize=12&descAlignY=72" width="230"/>
 
 </td>
 
-<td>&nbsp;&nbsp;</td>
+<td width="18"></td>
 
-<td align="center">
+<td align="center" width="250">
 
-<img src="https://img.shields.io/badge/🤖%20GENAI-Prompt%20Engineering%20%7C%20AI%20Analytics-BF91F3?style=for-the-badge&labelColor=8C65B8" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:315B7A,100:38A3D1&height=140&section=header&text=🗄️%20SQL&fontSize=24&fontColor=FFFFFF&animation=fadeIn&desc=Advanced%20Queries%20%26%20Analytical%20SQL&descSize=12&descAlignY=72" width="230"/>
+
+</td>
+
+<td width="18"></td>
+
+<td align="center" width="250">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4D9E,100:BF91F3&height=140&section=header&text=🤖%20GENAI&fontSize=24&fontColor=FFFFFF&animation=fadeIn&desc=Prompt%20Engineering%20%26%20AI%20Analytics&descSize=12&descAlignY=72" width="230"/>
 
 </td>
 
