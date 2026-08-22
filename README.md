@@ -370,33 +370,53 @@ alt="GitHub Activity Graph"/>
 <table>
 <tr>
 
-<td align="center" width="250">
+<td width="220" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B44B8,100:8B5CF6&height=140&section=header&text=📊%20POWER%20BI&fontSize=24&fontColor=FFFFFF&animation=fadeIn&desc=Advanced%20DAX%20%26%20Data%20Storytelling&descSize=12&descAlignY=72" width="230"/>
+### 📊 POWER BI
 
-</td>
+**Advanced DAX**
 
-<td width="18"></td>
-
-<td align="center" width="250">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:285780,100:3776AB&height=140&section=header&text=🐍%20PYTHON&fontSize=24&fontColor=FFFFFF&animation=fadeIn&desc=Statistical%20EDA%20%26%20Advanced%20Pandas&descSize=12&descAlignY=72" width="230"/>
+Data Storytelling  
+Dashboard Design
 
 </td>
 
-<td width="18"></td>
+<td width="20"></td>
 
-<td align="center" width="250">
+<td width="220" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:315B7A,100:38A3D1&height=140&section=header&text=🗄️%20SQL&fontSize=24&fontColor=FFFFFF&animation=fadeIn&desc=Advanced%20Queries%20%26%20Analytical%20SQL&descSize=12&descAlignY=72" width="230"/>
+### 🐍 PYTHON
+
+**Statistical EDA**
+
+Advanced Pandas  
+Data Analysis
 
 </td>
 
-<td width="18"></td>
+<td width="20"></td>
 
-<td align="center" width="250">
+<td width="220" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4D9E,100:BF91F3&height=140&section=header&text=🤖%20GENAI&fontSize=24&fontColor=FFFFFF&animation=fadeIn&desc=Prompt%20Engineering%20%26%20AI%20Analytics&descSize=12&descAlignY=72" width="230"/>
+### 🗄️ SQL
+
+**Advanced Queries**
+
+Analytical SQL  
+Data Extraction
+
+</td>
+
+<td width="20"></td>
+
+<td width="220" align="center">
+
+### 🤖 GENAI
+
+**Prompt Engineering**
+
+AI-assisted Analytics  
+Productivity
 
 </td>
 
