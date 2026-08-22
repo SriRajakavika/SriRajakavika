@@ -365,40 +365,38 @@ alt="GitHub Activity Graph"/>
 
 # 📚 Currently Learning
 
-# 📚 Currently Learning
-
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="220">
+<td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6C63FF&height=110&section=header&text=POWER%20BI&fontSize=22&fontColor=FFFFFF&desc=Advanced%20DAX%20%7C%20Data%20Storytelling&descSize=11&descAlignY=72" width="210"/>
-
-</td>
-
-<td width="20"></td>
-
-<td align="center" width="220">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=110&section=header&text=PYTHON&fontSize=22&fontColor=FFFFFF&desc=Statistical%20EDA%20%7C%20Advanced%20Pandas&descSize=11&descAlignY=72" width="210"/>
+<img src="https://img.shields.io/badge/📊%20POWER%20BI-Advanced%20DAX%20%7C%20Data%20Storytelling-6C63FF?style=for-the-badge&labelColor=4B44B8" />
 
 </td>
 
-<td width="20"></td>
+<td>&nbsp;&nbsp;</td>
 
-<td align="center" width="220">
+<td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=4479A1&height=110&section=header&text=SQL&fontSize=22&fontColor=FFFFFF&desc=Advanced%20Queries%20%7C%20Analytical%20SQL&descSize=11&descAlignY=72" width="210"/>
+<img src="https://img.shields.io/badge/🐍%20PYTHON-Statistical%20EDA%20%7C%20Advanced%20Pandas-3776AB?style=for-the-badge&labelColor=285780" />
 
 </td>
 
-<td width="20"></td>
+<td>&nbsp;&nbsp;</td>
 
-<td align="center" width="220">
+<td align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=BF91F3&height=110&section=header&text=GENAI&fontSize=22&fontColor=FFFFFF&desc=Prompt%20Engineering%20%7C%20AI%20Analytics&descSize=11&descAlignY=72" width="210"/>
+<img src="https://img.shields.io/badge/🗄️%20SQL-Advanced%20Queries%20%7C%20Analytical%20SQL-4479A1?style=for-the-badge&labelColor=315B7A" />
+
+</td>
+
+<td>&nbsp;&nbsp;</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/🤖%20GENAI-Prompt%20Engineering%20%7C%20AI%20Analytics-BF91F3?style=for-the-badge&labelColor=8C65B8" />
 
 </td>
 
