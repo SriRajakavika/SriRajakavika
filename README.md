@@ -7,14 +7,20 @@
 <a href="https://www.linkedin.com/in/sri-rajakavika">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 &nbsp;&nbsp;
+
 <a href="mailto:sriikavi17@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Coimbatore%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
 &nbsp;&nbsp;
 
+<img src="https://img.shields.io/badge/Coimbatore%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+&nbsp;&nbsp;
+
+<img src="https://komarev.com/ghpvc/?username=SriRajakavika&style=for-the-badge&color=70A5FD" alt="Profile Views"/>
 
 <br><br>
 
@@ -29,11 +35,11 @@
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="58%" valign="middle">
 
 ### Hi, I'm Sri! 👋
 
-I'm a **Data Analyst** with a background in **M.Sc. Software Systems**, passionate about turning raw and messy data into meaningful business insights.
+I'm a **Data Analyst** with a background in **M.Sc. Software Systems**, passionate about transforming raw and messy data into meaningful business insights.
 
 I enjoy working across the complete analytics workflow:
 
@@ -44,17 +50,17 @@ I enjoy working across the complete analytics workflow:
 🔹 Interactive Power BI Dashboards  
 🔹 Customer & Sales Analytics  
 
-I'm always curious about the **story behind the numbers** and how data can support better business decisions.
+I'm curious about the **story behind the numbers** and how data can support better business decisions.
 
 <br>
 
-🎯 **Currently building:** End-to-end analytics projects and strengthening my SQL, Python and Power BI skills.
+🎯 **Currently building:** End-to-end analytics projects while strengthening my SQL, Python and Power BI skills.
 
 </td>
 
-<td width="40%" align="center">
+<td width="42%" align="center">
 
-<img src="./assets/female_data_analyst.jpg" width="330px" alt="Female Data Analyst"/>
+<img src="./assets/female-data-analyst.jpg" width="440px" alt="Female Data Analyst"/>
 
 </td>
 
@@ -63,43 +69,114 @@ I'm always curious about the **story behind the numbers** and how data can suppo
 
 ---
 
-# 🛠️ My Data Analytics Toolkit
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 🐍 Python & Data Analysis
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<td align="center" width="180">
 
-<br><br>
+### 🐍 Python
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-### 🗄️ SQL & Databases
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/JOINs-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CTEs-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Subqueries-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
-### 📊 Business Intelligence
+<br>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+
+<td align="center" width="180">
+
+### 🗄️ SQL
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="55"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/JOINs-4479A1?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/CTEs-4479A1?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Subqueries-4479A1?style=flat-square"/>
+
+</td>
+
+<td align="center" width="180">
+
+### 📊 Power BI
+
+<br>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/KPI%20Analysis-70A5FD?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Dashboard%20Development-70A5FD?style=flat-square"/>
+
+</td>
+
+<td align="center" width="180">
 
 ### 📗 Excel
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 <br><br>
 
-`Data Cleaning` · `Pivot Tables` · `Lookups` · `Dashboards` · `KPI Analysis`
+<img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Lookup%20Functions-217346?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Dashboards-70A5FD?style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### ⚡ Core Analytics Skills
+
+<img src="https://img.shields.io/badge/Data%20Cleaning-70A5FD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-70A5FD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-BF91F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-BF91F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI%20Analysis-38BDAE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Insights-38BDAE?style=for-the-badge"/>
 
 </div>
 
@@ -107,158 +184,197 @@ I'm always curious about the **story behind the numbers** and how data can suppo
 
 # 🚀 Featured Analytics Projects
 
-<div align="center">
+<br>
+
+<!-- AMAZON FRESH -->
+
+<table>
+<tr>
+
+<td width="52%" valign="middle">
 
 ## 🛒 Amazon Fresh Sales Analysis
 
-**MySQL · SQL · Power BI**
+### MySQL · SQL · Power BI
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
-</div>
+<br><br>
 
-> **Business Focus:** E-commerce Sales & Inventory Analytics
+**E-commerce Sales & Inventory Analytics**
 
-### 🔍 What I worked on
+Designed a normalized relational e-commerce database and performed SQL-based analysis across sales, customers, products, suppliers, revenue and inventory.
 
-- Designed a normalized e-commerce database using **ER modeling and 3NF normalization**
-- Created relational structures using **Primary Keys, Foreign Keys, DDL, DML and constraints**
-- Analyzed **sales, customers, products, suppliers, revenue and inventory**
-- Used SQL `JOINs`, subqueries, aggregate functions, `GROUP BY`, `HAVING` and `CASE`
-- Built Power BI reporting to communicate business performance
+### 🔍 Key Work
 
-<div align="center">
+• ER modeling & 3NF normalization  
+• Primary & Foreign Keys  
+• DDL, DML & constraints  
+• SQL JOINs & subqueries  
+• Aggregate functions & conditional logic  
+• Sales & inventory analysis  
+• Power BI reporting
+
+<br>
 
 <a href="https://github.com/SriRajakavika/Amazon_fresh_sales_analysis">
 <img src="https://img.shields.io/badge/🔎%20VIEW%20PROJECT-70A5FD?style=for-the-badge"/>
 </a>
 
-</div>
+</td>
+
+<td width="48%" align="center">
+
+<img src="./assets/Home%20page.png" width="100%" alt="Amazon Fresh Home Page"/>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
 
 ---
 
-<div align="center">
+<!-- RETAIL SALES -->
+
+<table>
+<tr>
+
+<td width="48%" align="center">
+
+<img src="./assets/3.customers.png" width="100%" alt="Retail Sales Dashboard"/>
+
+</td>
+
+<td width="52%" valign="middle">
 
 ## 🏪 Retail Sales Analytics
 
-**Excel · MySQL · Python · Pandas · Power BI**
+### Excel · MySQL · Python · Power BI
 
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
-</div>
+<br><br>
 
-> **Business Focus:** Sales Performance & Customer Segmentation
+**Sales Performance & Customer Analytics**
 
-### 🔍 What I worked on
+Performed end-to-end data cleaning, SQL analysis and Python-based EDA across sales, customers, stores, products, staff and inventory.
 
-- Performed **end-to-end data cleaning** using Excel
-- Conducted SQL analysis across **sales, customers, stores, products, staff and inventory**
-- Performed Python/Pandas **EDA**
-- Implemented **RFM customer segmentation**
-- Developed an interactive Power BI dashboard with **KPIs, slicers, bookmarks and segment analysis**
+### 🔍 Key Work
 
-<div align="center">
+• Excel data cleaning  
+• SQL business analysis  
+• Python/Pandas EDA  
+• RFM customer segmentation  
+• Sales & store performance  
+• Inventory analysis  
+• Interactive Power BI dashboard  
+• KPIs, slicers & bookmarks
+
+<br>
 
 <a href="https://github.com/SriRajakavika/retail-sales-analytics">
 <img src="https://img.shields.io/badge/🔎%20VIEW%20PROJECT-70A5FD?style=for-the-badge"/>
 </a>
 
-</div>
+</td>
+
+</tr>
+</table>
+
+<br><br>
 
 ---
 
-<div align="center">
+<!-- NETFLIX -->
+
+<table>
+<tr>
+
+<td width="52%" valign="middle">
 
 ## 🎬 Netflix Data Analysis
 
-**Power BI · DAX**
+### Power BI · DAX
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
-</div>
+<br><br>
 
-> **Business Focus:** Content Trends & Performance Analysis
+**Content Trends & Performance Analysis**
 
-### 🔍 What I worked on
+Cleaned and transformed Netflix data and analyzed content trends across genres, countries, ratings and time periods.
 
-- Cleaned and transformed Netflix data
-- Handled missing values and inconsistent **date and rating fields**
-- Analyzed content across **genres, countries, ratings and time periods**
-- Created DAX-based analytical measures
-- Built an interactive dashboard using **KPIs, slicers, maps and visualizations**
+### 🔍 Key Work
 
-<div align="center">
+• Data cleaning & transformation  
+• Missing-value handling  
+• Date & rating standardization  
+• Content trend analysis  
+• Genre & country analysis  
+• DAX-based analysis  
+• KPI development  
+• Interactive Power BI dashboard  
+• Maps & slicers
+
+<br>
 
 <a href="https://github.com/SriRajakavika/netflix-data-analysis-powerbi">
 <img src="https://img.shields.io/badge/🔎%20VIEW%20PROJECT-70A5FD?style=for-the-badge"/>
 </a>
 
-</div>
+</td>
+
+<td width="48%" align="center">
+
+<img src="./assets/1.%20Home.png" width="100%" alt="Netflix Home Page"/>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
 
 ---
 
-<div align="center">
+<!-- MANUFACTURING -->
 
-## 🏭 Manufacturing Production & Downtime Analysis
+<table>
+<tr>
 
-**Python · Pandas · MySQL · SQL · Power BI**
+<td width="100%" align="center">
+
+# 🏭 Manufacturing Production & Downtime Analysis
+
+### Python · Pandas · MySQL · SQL · Power BI
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
-</div>
+<br><br>
 
-> 🚧 **Currently Building**
-
-### 🔍 Project Focus
-
-- Production performance analysis
-- Downtime and operational efficiency
-- Defect and quality analysis
-- Maintenance performance
-- Python-based data cleaning and EDA
-- SQL business analysis
-- Interactive Power BI reporting
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-F2C811?style=for-the-badge"/>
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/SriRajakavika">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SriRajakavika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=C9D1D9&border_radius=12"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/SriRajakavika">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriRajakavika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8&border_radius=12"/>
-</a>
+<img src="https://img.shields.io/badge/🚧%20CURRENTLY%20BUILDING-F2C811?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=SriRajakavika&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B9498&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" width="70%" alt="GitHub Streak"/>
+**Production Performance · Downtime · Quality · Maintenance**
 
-<br><br>
+This project will focus on analyzing manufacturing production efficiency, downtime patterns, defects, quality performance and maintenance operations using Python, SQL and Power BI.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SriRajakavika&theme=tokyo-night&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+</td>
 
-</div>
+</tr>
+</table>
 
 ---
 
@@ -266,10 +382,13 @@ I'm always curious about the **story behind the numbers** and how data can suppo
 
 <div align="center">
 
-| 📊 Power BI | 🐍 Python | 🗄️ SQL | 🤖 GenAI |
-|:---:|:---:|:---:|:---:|
-| Advanced DAX | Statistical EDA | Advanced SQL | Prompt Engineering |
-| Data Storytelling | Data Analysis | Analytical Queries | AI-assisted Analytics |
+<img src="https://img.shields.io/badge/Power%20BI-Advanced%20DAX%20%26%20Data%20Storytelling-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-Statistical%20EDA-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-Advanced%20Analytical%20Queries-4479A1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GenAI-Prompt%20Engineering-BF91F3?style=for-the-badge"/>
 
 </div>
 
@@ -289,9 +408,21 @@ I'm always curious about the **story behind the numbers** and how data can suppo
 
 ---
 
+# 👥 Leadership
+
+### Student Secretary
+
+**Department of Software Systems & Computer Science (PG)**
+
+• Organized inter-departmental competitions involving **50+ students**  
+• Coordinated communication between faculty and students  
+• Supported smooth execution of department activities
+
+---
+
 <div align="center">
 
-## 💭 My Analytics Philosophy
+# 💭 My Analytics Philosophy
 
 ### *"Every dataset has a story — I just query it out."* 📊
 
