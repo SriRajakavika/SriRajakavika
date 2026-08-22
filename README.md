@@ -181,7 +181,7 @@ print(me.motto())
 |---|---|---|
 | M.Sc. Software Systems | KG College of Arts and Science | 87% |
 | Higher Secondary Certificate | RJ Matric Higher Secondary School | 91% |
-| Secondary School Leaving Certificate | — | 88% |
+| Secondary School Leaving Certificate | RJ Matric Higher Secondary School | 88% |
 
 </div>
 
