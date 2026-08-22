@@ -17,14 +17,12 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
 class SriRajakavika:
     def __init__(self):
         self.name = "Sri Rajakavika Palanivel"
         self.role = "Data Analyst"
         self.location = "Coimbatore, India"
         self.degree = "M.Sc. Software Systems"
-
         self.stack = {
             "languages": ["Python"],
             "libraries": ["Pandas", "Matplotlib", "Seaborn"],
@@ -32,22 +30,19 @@ class SriRajakavika:
             "bi_tools": ["Power BI", "DAX"],
             "spreadsheets": ["Excel (Pivot Tables, Lookups, Dashboards)"],
         }
-
         self.currently_exploring = [
             "Advanced DAX & Power BI storytelling",
             "Prompt engineering with GenAI tools",
             "Statistical analysis for deeper EDA",
         ]
-
         self.fun_fact = "I once modeled an entire e-commerce database from scratch, just for fun."
-
     def motto(self):
         return "Every dataset has a story — I just query it out."
 
-
+    
 me = SriRajakavika()
 print(me.motto())
-```
+
 
 ---
 
