@@ -14,7 +14,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Coimbatore%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 &nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=SriRajakavika&style=for-the-badge&color=70A5FD" alt="Profile Views"/>
+
 
 <br><br>
 
@@ -54,7 +54,7 @@ I'm always curious about the **story behind the numbers** and how data can suppo
 
 <td width="40%" align="center">
 
-<img src="./assets/female-data-analyst.jpg" width="330px" alt="Female Data Analyst"/>
+<img src="./assets/female_data_analyst.jpg" width="330px" alt="Female Data Analyst"/>
 
 </td>
 
