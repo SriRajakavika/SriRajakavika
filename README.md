@@ -329,17 +329,28 @@ alt="Retail Sales Dashboard"/>
 
 ## 🏭 04 — Manufacturing Production & Downtime Analysis
 
-<div align="center">
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/✅%20COMPLETED-38BDAE?style=for-the-badge"/>
-
-<br><br>
+<td width="54%" valign="middle">
 
 ### Python · Pandas · MySQL · SQL · Power BI
 
-**Production Performance · Downtime · Defects · Quality · Maintenance**
+**Manufacturing Production & Operations Analytics**
 
-An end-to-end manufacturing analytics project focused on production efficiency, downtime patterns, defect analysis, quality performance and maintenance operations.
+An end-to-end manufacturing analytics project analyzing production performance, downtime, defects, quality and maintenance across multiple plants.
+
+**Key Work**
+
+• Python data cleaning & validation  
+• Exploratory data analysis  
+• SQL business analysis  
+• Production KPI analysis  
+• Plant, line & shift performance  
+• Downtime & reliability analysis  
+• Defect & quality analysis  
+• Power BI dashboard development  
+• DAX & data modeling
 
 <br>
 
@@ -347,7 +358,18 @@ An end-to-end manufacturing analytics project focused on production efficiency, 
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
+
+<td width="46%" align="center">
+
+<img src="./assets/manufacturing-home.png"
+width="100%"
+alt="Manufacturing Production & Downtime Analysis Home Page"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
