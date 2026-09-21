@@ -362,7 +362,7 @@ An end-to-end manufacturing analytics project analyzing production performance, 
 
 <td width="46%" align="center">
 
-<img src="./assets/manufacturing-home.png"
+<img src="https://raw.githubusercontent.com/SriRajakavika/manufacturing-production-downtime-analysis/main/Screenshots/a.home.png"
 width="100%"
 alt="Manufacturing Production & Downtime Analysis Home Page"/>
 
