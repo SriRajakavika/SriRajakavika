@@ -374,24 +374,6 @@ alt="Manufacturing Production & Downtime Analysis Home Page"/>
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SriRajakavika&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true"
-width="100%"
-alt="GitHub Activity Graph"/>
-
-<br><br>
-
-<a href="https://github.com/SriRajakavika">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 # 📚 Currently Learning
 
 <div align="center">
