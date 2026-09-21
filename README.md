@@ -332,7 +332,7 @@ alt="Retail Sales Dashboard"/>
 <table>
 <tr>
 
-<td width="54%" valign="middle">
+<td width="50%" valign="middle">
 
 ### Python · Pandas · MySQL · SQL · Power BI
 
@@ -360,7 +360,7 @@ An end-to-end manufacturing analytics project analyzing production performance, 
 
 </td>
 
-<td width="46%" align="center">
+<td width="50%" align="center">
 
 <img src="https://raw.githubusercontent.com/SriRajakavika/manufacturing-production-downtime-analysis/main/Screenshots/a.home.png"
 width="100%"
