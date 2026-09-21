@@ -331,7 +331,7 @@ alt="Retail Sales Dashboard"/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🚧%20CURRENTLY%20BUILDING-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✅%20COMPLETED-38BDAE?style=for-the-badge"/>
 
 <br><br>
 
@@ -339,7 +339,13 @@ alt="Retail Sales Dashboard"/>
 
 **Production Performance · Downtime · Defects · Quality · Maintenance**
 
-An upcoming end-to-end analytics project focused on manufacturing production efficiency, downtime patterns, defect analysis, quality performance and maintenance operations.
+An end-to-end manufacturing analytics project focused on production efficiency, downtime patterns, defect analysis, quality performance and maintenance operations.
+
+<br>
+
+<a href="https://github.com/SriRajakavika/manufacturing-production-downtime-analysis">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
